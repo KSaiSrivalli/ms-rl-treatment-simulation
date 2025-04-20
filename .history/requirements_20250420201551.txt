@@ -1,0 +1,5 @@
+streamlit
+gym
+numpy
+pandas
+matplotlib
